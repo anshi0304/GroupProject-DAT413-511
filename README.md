@@ -5,7 +5,7 @@ Purpose: Demonstrate the ability to collect, clean, and prepare a tidy dataset f
 
 Repository Contents
 
-GroupWork.R → Main R script that performs all data cleaning and transformation steps
-tidy_dataset.txt → Final tidy dataset with averages for each subject and activity
-CodeBook.md → Documentation of variables, data, and transformations
-README.md → Explanation of the project and how everything works
+GroupWork.R → Main R script that performs all data cleaning and transformation steps  
+tidy_dataset.txt → Final tidy dataset with averages for each subject and activity  
+CodeBook.md → Documentation of variables, data, and transformations  
+README.md → Explanation of the project and how everything works  
